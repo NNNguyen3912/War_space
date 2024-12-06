@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BaitapcuaBu\\HK5\\LapTrinhHuongDoiTuong\\OOPProject\\LastProject\\LastProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17C9BBFE-8B91-487A-8156-272E9341A6A0}|LastProject\\LastProject.vcxproj|D:\\BaitapcuaBu\\HK5\\LapTrinhHuongDoiTuong\\OOPProject\\LastProject\\LastProject\\LastProject\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{17C9BBFE-8B91-487A-8156-272E9341A6A0}|LastProject\\LastProject.vcxproj|solutionrelative:LastProject\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17C9BBFE-8B91-487A-8156-272E9341A6A0}|LastProject\\LastProject.vcxproj|D:\\BaitapcuaBu\\HK5\\LapTrinhHuongDoiTuong\\OOPProject\\LastProject\\LastProject\\LastProject\\Winner_point.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{17C9BBFE-8B91-487A-8156-272E9341A6A0}|LastProject\\LastProject.vcxproj|solutionrelative:LastProject\\Winner_point.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17C9BBFE-8B91-487A-8156-272E9341A6A0}|LastProject\\LastProject.vcxproj|D:\\BaitapcuaBu\\HK5\\LapTrinhHuongDoiTuong\\OOPProject\\LastProject\\LastProject\\LastProject\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{17C9BBFE-8B91-487A-8156-272E9341A6A0}|LastProject\\LastProject.vcxproj|solutionrelative:LastProject\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17C9BBFE-8B91-487A-8156-272E9341A6A0}|LastProject\\LastProject.vcxproj|D:\\BaitapcuaBu\\HK5\\LapTrinhHuongDoiTuong\\OOPProject\\LastProject\\LastProject\\LastProject\\Winner_point.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{17C9BBFE-8B91-487A-8156-272E9341A6A0}|LastProject\\LastProject.vcxproj|solutionrelative:LastProject\\Winner_point.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17C9BBFE-8B91-487A-8156-272E9341A6A0}|LastProject\\LastProject.vcxproj|D:\\BaitapcuaBu\\HK5\\LapTrinhHuongDoiTuong\\OOPProject\\LastProject\\LastProject\\LastProject\\Constants.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{17C9BBFE-8B91-487A-8156-272E9341A6A0}|LastProject\\LastProject.vcxproj|solutionrelative:LastProject\\Constants.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17C9BBFE-8B91-487A-8156-272E9341A6A0}|LastProject\\LastProject.vcxproj|D:\\BaitapcuaBu\\HK5\\LapTrinhHuongDoiTuong\\OOPProject\\LastProject\\LastProject\\LastProject\\Asteroid.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{17C9BBFE-8B91-487A-8156-272E9341A6A0}|LastProject\\LastProject.vcxproj|solutionrelative:LastProject\\Asteroid.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17C9BBFE-8B91-487A-8156-272E9341A6A0}|LastProject\\LastProject.vcxproj|D:\\BaitapcuaBu\\HK5\\LapTrinhHuongDoiTuong\\OOPProject\\LastProject\\LastProject\\LastProject\\Asteroid.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{17C9BBFE-8B91-487A-8156-272E9341A6A0}|LastProject\\LastProject.vcxproj|solutionrelative:LastProject\\Asteroid.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Winner_point.cpp",
+              "DocumentMoniker": "D:\\BaitapcuaBu\\HK5\\LapTrinhHuongDoiTuong\\OOPProject\\LastProject\\LastProject\\LastProject\\Winner_point.cpp",
+              "RelativeDocumentMoniker": "LastProject\\Winner_point.cpp",
+              "ToolTip": "D:\\BaitapcuaBu\\HK5\\LapTrinhHuongDoiTuong\\OOPProject\\LastProject\\LastProject\\LastProject\\Winner_point.cpp",
+              "RelativeToolTip": "LastProject\\Winner_point.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-06T03:49:10.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Winner_point.h",
+              "DocumentMoniker": "D:\\BaitapcuaBu\\HK5\\LapTrinhHuongDoiTuong\\OOPProject\\LastProject\\LastProject\\LastProject\\Winner_point.h",
+              "RelativeDocumentMoniker": "LastProject\\Winner_point.h",
+              "ToolTip": "D:\\BaitapcuaBu\\HK5\\LapTrinhHuongDoiTuong\\OOPProject\\LastProject\\LastProject\\LastProject\\Winner_point.h",
+              "RelativeToolTip": "LastProject\\Winner_point.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-06T03:47:46.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Player.cpp",
+              "DocumentMoniker": "D:\\BaitapcuaBu\\HK5\\LapTrinhHuongDoiTuong\\OOPProject\\LastProject\\LastProject\\LastProject\\Player.cpp",
+              "RelativeDocumentMoniker": "LastProject\\Player.cpp",
+              "ToolTip": "D:\\BaitapcuaBu\\HK5\\LapTrinhHuongDoiTuong\\OOPProject\\LastProject\\LastProject\\LastProject\\Player.cpp",
+              "RelativeToolTip": "LastProject\\Player.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-05T16:17:27.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Asteroid.h",
+              "DocumentMoniker": "D:\\BaitapcuaBu\\HK5\\LapTrinhHuongDoiTuong\\OOPProject\\LastProject\\LastProject\\LastProject\\Asteroid.h",
+              "RelativeDocumentMoniker": "LastProject\\Asteroid.h",
+              "ToolTip": "D:\\BaitapcuaBu\\HK5\\LapTrinhHuongDoiTuong\\OOPProject\\LastProject\\LastProject\\LastProject\\Asteroid.h",
+              "RelativeToolTip": "LastProject\\Asteroid.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-05T16:16:45.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Asteroid.cpp",
+              "DocumentMoniker": "D:\\BaitapcuaBu\\HK5\\LapTrinhHuongDoiTuong\\OOPProject\\LastProject\\LastProject\\LastProject\\Asteroid.cpp",
+              "RelativeDocumentMoniker": "LastProject\\Asteroid.cpp",
+              "ToolTip": "D:\\BaitapcuaBu\\HK5\\LapTrinhHuongDoiTuong\\OOPProject\\LastProject\\LastProject\\LastProject\\Asteroid.cpp",
+              "RelativeToolTip": "LastProject\\Asteroid.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-05T16:01:43.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Constants.h",
+              "DocumentMoniker": "D:\\BaitapcuaBu\\HK5\\LapTrinhHuongDoiTuong\\OOPProject\\LastProject\\LastProject\\LastProject\\Constants.h",
+              "RelativeDocumentMoniker": "LastProject\\Constants.h",
+              "ToolTip": "D:\\BaitapcuaBu\\HK5\\LapTrinhHuongDoiTuong\\OOPProject\\LastProject\\LastProject\\LastProject\\Constants.h",
+              "RelativeToolTip": "LastProject\\Constants.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-05T13:52:12.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "D:\\BaitapcuaBu\\HK5\\LapTrinhHuongDoiTuong\\OOPProject\\LastProject\\LastProject\\LastProject\\Main.cpp",
+              "RelativeDocumentMoniker": "LastProject\\Main.cpp",
+              "ToolTip": "D:\\BaitapcuaBu\\HK5\\LapTrinhHuongDoiTuong\\OOPProject\\LastProject\\LastProject\\LastProject\\Main.cpp*",
+              "RelativeToolTip": "LastProject\\Main.cpp*",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAcwKAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-03T05:40:19.535Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

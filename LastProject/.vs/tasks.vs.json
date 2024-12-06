@@ -1,0 +1,20 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-CppProperties",
+      "appliesTo": "CppProperties.json",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-CppProperties",
+      "appliesTo": "CppProperties.json",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-main",
+      "appliesTo": "main.cpp",
+      "type": "launch"
+    }
+  ]
+}

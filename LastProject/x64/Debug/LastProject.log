@@ -1,0 +1,18 @@
+﻿  Main.cpp
+D:\BaitapcuaBu\HK5\LapTrinhHuongDoiTuong\OOPProject\LastProject\LastProject\LastProject\Main.cpp(27,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\BaitapcuaBu\HK5\LapTrinhHuongDoiTuong\OOPProject\LastProject\LastProject\LastProject\Main.cpp(50,43): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\BaitapcuaBu\HK5\LapTrinhHuongDoiTuong\OOPProject\LastProject\LastProject\LastProject\Main.cpp(51,49): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\BaitapcuaBu\HK5\LapTrinhHuongDoiTuong\OOPProject\LastProject\LastProject\LastProject\Main.cpp(52,45): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\BaitapcuaBu\HK5\LapTrinhHuongDoiTuong\OOPProject\LastProject\LastProject\LastProject\Main.cpp(56,51): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\BaitapcuaBu\HK5\LapTrinhHuongDoiTuong\OOPProject\LastProject\LastProject\LastProject\Main.cpp(63,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\BaitapcuaBu\HK5\LapTrinhHuongDoiTuong\OOPProject\LastProject\LastProject\LastProject\Main.cpp(69,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\BaitapcuaBu\HK5\LapTrinhHuongDoiTuong\OOPProject\LastProject\LastProject\LastProject\Main.cpp(87,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\BaitapcuaBu\HK5\LapTrinhHuongDoiTuong\OOPProject\LastProject\LastProject\LastProject\Main.cpp(87,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\BaitapcuaBu\HK5\LapTrinhHuongDoiTuong\OOPProject\LastProject\LastProject\LastProject\Main.cpp(114,52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\BaitapcuaBu\HK5\LapTrinhHuongDoiTuong\OOPProject\LastProject\LastProject\LastProject\Main.cpp(114,46): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\BaitapcuaBu\HK5\LapTrinhHuongDoiTuong\OOPProject\LastProject\LastProject\LastProject\Main.cpp(121,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\BaitapcuaBu\HK5\LapTrinhHuongDoiTuong\OOPProject\LastProject\LastProject\LastProject\Main.cpp(121,57): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\BaitapcuaBu\HK5\LapTrinhHuongDoiTuong\OOPProject\LastProject\LastProject\LastProject\Main.cpp(121,51): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\BaitapcuaBu\HK5\LapTrinhHuongDoiTuong\OOPProject\LastProject\LastProject\LastProject\Main.cpp(131,57): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\BaitapcuaBu\HK5\LapTrinhHuongDoiTuong\OOPProject\LastProject\LastProject\LastProject\Main.cpp(131,51): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  LastProject.vcxproj -> D:\BaitapcuaBu\HK5\LapTrinhHuongDoiTuong\OOPProject\LastProject\LastProject\x64\Debug\LastProject.exe
